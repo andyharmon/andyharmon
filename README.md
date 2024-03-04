@@ -5,7 +5,8 @@ I'm Andy! I'm a postgrad software engineering apprentice (which just means I wri
 
 - 🔭 I’m currently working on DevOps, web framework development and AWS infrastructure management
 - 🌱 I’m currently learning team leadership, organisational change managament and how technology fits into these
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him/sé
+- I speak English, German and I'm learning my native Irish.
 
 <!--
 **andyharmon/andyharmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
