@@ -5,7 +5,7 @@ I'm Andy! I'm a software engineer with the UK's public service broadcaster, the 
 
 - 🔭 I’m currently working on DevOps, web framework development and AWS infrastructure management
 - 🌱 I’m currently learning team leadership, organisational change managament and how technology fits into these
-- 😄 Pronouns: he/him/sé
+- 😄 Pronouns: he/him agus sé/é
 - 🗣️ I speak English and I'm learning my native Irish/Gaeilge.
 
 <!--
