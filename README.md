@@ -3,8 +3,7 @@
 I'm Andy! I'm a software engineer with the UK's public service broadcaster, the [BBC](https://www.bbc.co.uk).
 
 
-- 🔭 I’m currently working on DevOps, web framework development and AWS infrastructure management
-- 🌱 I’m currently learning team leadership, organisational change managament and how technology fits into these
+- 🔭 I’m currently working on DevOps, web framework development and AWS infrastructure management.
 - 😄 Pronouns: he/him agus sé/é
 - 🗣️ I speak English and Irish/Gaeilge.
 
